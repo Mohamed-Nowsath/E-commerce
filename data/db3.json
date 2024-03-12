@@ -1,0 +1,20 @@
+{
+  "Users": [
+    {
+      "id": "cf78",
+      "userName": "Mohamed Nowsath",
+      "email": "nowsath@gmail.com",
+      "street": "Jinna nagar",
+      "city": "Dindigul",
+      "zipCode": "624002"
+    },
+    {
+      "id": "8e2d",
+      "userName": "Mohamed Nowsath",
+      "email": "nowsath5@gmail.com",
+      "street": "london 1st street",
+      "city": "london",
+      "zipCode": "989898"
+    }
+  ]
+}
